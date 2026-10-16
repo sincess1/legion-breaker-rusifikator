@@ -8,6 +8,8 @@
 
 [Зеркало и инструкция на SteamGate](https://steamgate.online/ru/blog/legion-breaker-rusifikator).
 
+[Руководство Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=3820941141) · [Страница PlayGround](https://www.playground.ru/misc/file/legion_breaker_rusifikator_russkij_yazyk_1_0_0-1882305)
+
 ![Главное меню на русском](screenshots/menu.jpg)
 
 ## Что переведено
